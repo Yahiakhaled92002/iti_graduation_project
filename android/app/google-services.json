@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016839869754",
+    "project_id": "itigraduteproject",
+    "storage_bucket": "itigraduteproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016839869754:android:ae68f2b71bc23556916c03",
+        "android_client_info": {
+          "package_name": "com.firebaseapp.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016839869754-bk3ugrmmfb7bpaosh7pkasv4iac32vr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjvb8RqKyCyN2ZlpZVb92goQ-AZ1QBb7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016839869754-bk3ugrmmfb7bpaosh7pkasv4iac32vr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
